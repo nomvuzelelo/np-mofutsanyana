@@ -1,0 +1,13 @@
+background{
+    color: rgba(245, 235, 235, 0.767);
+}
+h1{
+    font-style: italic;
+}
+p{
+    margin-right: 30%;
+    font-size: larger;
+}
+footer{
+    font-style: italic;
+}
